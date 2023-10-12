@@ -1,7 +1,7 @@
-import './style.css'
-import javascriptLogo from './javascript.svg'
+import '../style.css'
+import javascriptLogo from '../javascript.svg'
 // import viteLogo from '../../../../../../../vite.svg'
-import viteLogo from './public/vite.svg'
+import viteLogo from '../public/vite.svg'
 import { setupCounter } from '../counter.js'
 import { worker } from '../src/mocks/browser.js'
 
